@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rekmodus
+- 👋 Hi, I’m @Rekmodus (Richard Nguyen)
 - 👀 I’m interested in game dev
 - 🌱 I’m currently learning unity, C++, C#
 - 💞️ I’m looking to collaborate on ...
